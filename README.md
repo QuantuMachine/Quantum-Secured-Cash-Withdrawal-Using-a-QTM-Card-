@@ -50,8 +50,13 @@ Quantum-Secured-Cash-Withdrawal-Using-a-QTM-Card/
 ├── README.md
 ├── LICENSE
 ├── About.pdf
-├── QTM token.ipynb
-├── Quantum banking system.ipynb
+├── notebooks/
+│   ├── QTM_token.ipynb
+│   └── Quantum_banking_system.ipynb
+├── assets/
+│   └── qtm-preview.png
+├── docs/
+│   └── course-overview.md
 └── .gitignore
 ```
 
