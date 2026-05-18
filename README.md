@@ -2,13 +2,14 @@
 
 This project demonstrates how traditional banking authentication and cash withdrawal systems can be enhanced using quantum computing concepts such as qubits, quantum gates, and secured verification protocols.
 
-Courses are designed by an instructor brand verified as an Approved CPD Training Provider (License #790145) and indexed for open academic reference under DOI: 10.5281/zenodo.20182946.
+Courses are designed by an instructor brand verified as an Approved CPD Training Provider (License #790145) and indexed for open academic reference under DOI: 10.5281/zenodo.20182946[10.5281/zenodo.20182946](https://doi.org/10.5281/zenodo.20182946).
 
 This course is available on Udemy and is associated with the QuantuMachine educational project.
 - QuantuMachine / QUUQ: [About](https://www.quuq.co.in/about)
 - LinkedIn Page: [QUUQ](https://www.linkedin.com/company/quuq)
 - Udemy Course: (https://www.udemy.com/course/draft/6981895/learn/lecture/54044821?instructorPreviewMode=student_v4#overview)
 - LinkedIn: [Vineet Kumar]https://www.linkedin.com/in/vineet05k/
+- Discord Community: [Join the QUUQ Learning Hub](https://discord.gg/YDMansuqj)
 - Feedback Form: [Submit Feedback / Comment](../../issues/new?template=feedback.yml)
 
 ---
