@@ -42,6 +42,8 @@ Then open (for example):
 QTM token.ipynb
 ```
 
+---
+
 ## Repository Contents
 
 ```text
