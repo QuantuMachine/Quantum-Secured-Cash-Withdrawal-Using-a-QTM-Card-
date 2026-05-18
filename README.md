@@ -6,7 +6,7 @@ Courses are designed by an instructor brand verified as an Approved CPD Training
 
 This course is available on Udemy and is associated with the QuantuMachine educational project.
 - QuantuMachine / QUUQ: [About](https://www.quuq.co.in/about)
-- LinkedIn Company Page: [QUUQ](https://www.linkedin.com/company/quuq)
+- LinkedIn Page: [QUUQ](https://www.linkedin.com/company/quuq)
 - Udemy Course: (https://www.udemy.com/course/draft/6981895/learn/lecture/54044821?instructorPreviewMode=student_v4#overview)
 - LinkedIn: [Vineet Kumar]https://www.linkedin.com/in/vineet05k/
 - Feedback Form: [Submit Feedback / Comment](../../issues/new?template=feedback.yml)
