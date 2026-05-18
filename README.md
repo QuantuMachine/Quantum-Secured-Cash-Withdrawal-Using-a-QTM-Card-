@@ -8,6 +8,35 @@ This course is available on Udemy and is associated with the QuantuMachine educa
 
 ---
 
+## Installation
+
+To run the notebook locally, install Python and the required quantum computing libraries.
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/QuantuMachine/Quantum-Secured-Cash-Withdrawal-Using-a-QTM-Card.git
+cd Quantum-Secured-Cash-Withdrawal-Using-a-QTM-Card
+```
+
+### 2. Install Dependencies
+
+```bash
+pip install qiskit matplotlib numpy jupyter
+```
+
+### 3. Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+Then open:
+
+```text
+QTM token.ipynb
+```
+
 ## Overview
 
 Today’s banking systems mainly rely on classical cryptographic methods to protect transactions, user identity, and financial data. However, with the rapid advancement of quantum computing, many classical security techniques may become vulnerable in the future.
