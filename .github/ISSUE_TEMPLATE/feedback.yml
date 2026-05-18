@@ -17,10 +17,10 @@ body:
     id: email
     attributes:
       label: Email Address
-      description: Optional. Add your email only if you want a direct response. Please remember that GitHub Issues are public.
+      description: Please enter your email address so I can respond if needed. Please remember that GitHub Issues are public.
       placeholder: your.email@example.com
     validations:
-      required: false
+      required: true
 
   - type: dropdown
     id: feedback_type
