@@ -1,7 +1,5 @@
 # Quantum-Secured Cash Withdrawal Using a 'QTM Card'
 
-A project-based quantum computing course repository for implementing and simulating a quantum-secured cash withdrawal protocol using a QTM card.
-
 This project demonstrates how traditional banking authentication and cash withdrawal systems can be enhanced using quantum computing concepts such as qubits, quantum gates, and secured verification protocols.
 
 ---
@@ -16,7 +14,7 @@ The repository is designed as an educational and research-oriented resource for 
 
 ---
 
-## Project Objectives
+## Objectives
 
 - Understand the role of quantum computing in secure banking systems
 - Learn how qubits and quantum gates can be used for authentication
@@ -24,23 +22,6 @@ The repository is designed as an educational and research-oriented resource for 
 - Explore hybrid classical–quantum security models
 - Implement and validate quantum circuits using Python and Qiskit
 - Provide a practical learning resource for students and researchers
-
----
-
-## Key Concepts
-
-This project introduces and applies the following concepts:
-
-- Quantum computing fundamentals
-- Qubits and quantum states
-- Quantum gates
-- Quantum circuits
-- Quantum authentication
-- Quantum-secured transaction verification
-- Classical–quantum hybrid systems
-- Banking security and cryptography
-
----
 
 ## Repository Contents
 
