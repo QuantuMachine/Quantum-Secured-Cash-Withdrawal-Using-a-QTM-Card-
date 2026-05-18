@@ -2,6 +2,10 @@
 
 This project demonstrates how traditional banking authentication and cash withdrawal systems can be enhanced using quantum computing concepts such as qubits, quantum gates, and secured verification protocols.
 
+This course is available on Udemy and is associated with the QuantuMachine educational project.
+- Udemy Course: (https://www.udemy.com/course/draft/6981895/learn/lecture/54044821?instructorPreviewMode=student_v4#overview)
+- LinkedIn: https://www.linkedin.com/in/vineet05k/
+
 ---
 
 ## Overview
