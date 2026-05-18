@@ -9,6 +9,7 @@ This course is available on Udemy and is associated with the QuantuMachine educa
 - LinkedIn Company Page: [QUUQ](https://www.linkedin.com/company/quuq)
 - Udemy Course: (https://www.udemy.com/course/draft/6981895/learn/lecture/54044821?instructorPreviewMode=student_v4#overview)
 - LinkedIn: [Vineet Kumar]https://www.linkedin.com/in/vineet05k/
+- Feedback Form: [Submit Feedback / Comment](../../issues/new?template=feedback.yml)
 
 ---
 
